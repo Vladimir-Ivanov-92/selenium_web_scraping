@@ -2,3 +2,4 @@
 /geckodriver
 /geckodriver.log
 /.env
+/.idea
